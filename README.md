@@ -11,5 +11,5 @@ De term "strategiekaart" is afkomstig uit het werk van [het _Geef me de 5_ team]
 
 Tess is door dit boek geïnspireerd om PvA-kaarten ("plan van aanpak") te maken voor een aantal taken die haar leerlingen in de les krijgen. Voordat deze kaarten vrijelijk beschikbaar werden gesteld is er overlegd met Colette, Elisa en het Gmd5-team. Unixerius is dankbaar voor hun toestemming om deze kaarten vrij te delen. 
 
-De PvA-kaarten in deze Github repository zijn beschikbaar gesteld onder de _Creative Commons_ CC-BY-SA licentie. [Lees hier alle details.](https://github.com/Unixerius/Strategiekaarten/LICENSE.txt) Kortgezegd: deze kaarten mag je gratis gebruiken en verspreiden, maar **niet** voor commerciële doeleinden gebruiken.
+De PvA-kaarten in deze Github repository zijn beschikbaar gesteld onder de _Creative Commons_ CC-BY-SA licentie. [Lees hier alle details.](https://github.com/unixerius/Strategiekaarten/blob/main/LICENSE.txt) Kortgezegd: deze kaarten mag je gratis gebruiken en verspreiden, maar **niet** voor commerciële doeleinden gebruiken.
 
